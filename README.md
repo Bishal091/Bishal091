@@ -6,7 +6,7 @@
 </p>
 
 <!--Introduction-->
-<h1 align="center">I'm <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_NAME</a>, a Full Stack Web Developer 💻</h1>
+<h1 align="center">I'm <a href="https://github.com/Bishal091">BISHAL SINGH</a>, a Full Stack Web Developer 💻</h1>
 <h3 align="center">I love building modern, responsive, and user-friendly web applications.</h3>
 
 <!--Tech Stack-->
@@ -22,13 +22,11 @@
 
 <!--Social Links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/bishal-singh-797129203">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/Bishal234113">
+    <img src="https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://YOUR_WEBSITE_URL">
-    <img src="https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Website" />
-  </a>
+ 
 </p>
