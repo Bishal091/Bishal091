@@ -30,11 +30,6 @@
   </a>
  
 </p>
-### Hi there 👋
 
-<!--Animated Banner-->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndersenVelasquez/AndersenVelasquez/main/assets/welcome.gif" alt="Welcome" width="100%" style="animation: fadeIn 1s ease-in-out;" />
-</p>
 
 
