@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Bishal234113">
-    <img src="https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=X&logoColor=white" alt="Twitter" />
   </a>
  
 </p>
